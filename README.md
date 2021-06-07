@@ -1,3 +1,6 @@
+## Result:
+![result](./assets/amplify_vue_photo.gif)
+
 ## Steps:
 ### Install packages
 1. `npm install -g @vue/cli`
@@ -52,5 +55,4 @@
 2. change 'amplify/backend/function/AmplifyPhotoProcessor/AmplifyPhotoProcessor-cloudformation-template.json'- add 'MemorySize: 1536'
 3. `amplify push`
 
-## Result:
-![result](./assets/amplify_vue_photo.gif)
+
